@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../challenge-2-bank-gattaontheroof"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"main"
+		]
+	}
+}

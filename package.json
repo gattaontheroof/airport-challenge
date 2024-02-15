@@ -1,0 +1,16 @@
+{
+  "name": "airport-challenge",
+  "version": "1.0.0",
+  "description": "Challenge 1 - The Airport Challenge",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node specRunner.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
